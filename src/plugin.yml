@@ -1,0 +1,6 @@
+main: ledennis.lib.inventoryserializer.InventorySerializer
+
+name: InventorySerializer
+version: 1.1
+author: LeDennis32
+description: API for saving and loading inventories.

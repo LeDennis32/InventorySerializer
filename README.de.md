@@ -1,5 +1,6 @@
 # InventorySerializer
 API zum speichern &amp; laden von Inventaren in Dateien.
+[English Version](/README.md)
 
 ## Verwendung
 1. Inventare speichern

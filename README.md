@@ -1,6 +1,9 @@
 # InventorySerializer
 API for saving &amp; loading inventories in files.
-[German version](/README.de.md)
+[German version](/README.de.md)<br><br>
+
+Currently, special properties that only specific items have, like text of books, are not supported.<br>
+They will be added in a future release.
 
 ## Usage
 1. Saving inventories

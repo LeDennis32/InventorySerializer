@@ -1,5 +1,6 @@
 # InventorySerializer
 API for saving &amp; loading inventories in files.
+[German version](/README.de.md)
 
 ## Usage
 1. Saving inventories
